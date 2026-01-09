@@ -124,7 +124,7 @@ autocar project/
 - 확장 방향(Extention)
     - (추종기) PID / Pure Pursuit → Stanley → MPC
     - (동역학) kinematic → dynamic bicycle(타이어/슬립) → full vehicle model
-    - (실제 환경) sim2real에서 특히 타이어/제동/노면 마찰이 오차의 큰 원인이라, 검증 목적이면 여기 현실성이 체감됨
+    - (실제 환경) sim2real에서 특히 타이어/제동/노면 마찰이 오차의 큰 원인이라, 검증 환경에서 현실성을 확보해야함
 
 ## 실제 케이스
 Tesla : 상대적으로 “통합형(end-to-end)”에 더 가까운 흐름
